@@ -2,15 +2,15 @@
 주택 거래정보 / 매매가 조회 웹사이트 제작
 
 
-### :open_file_folder: 프로젝트 기간 및 참여 인원
+### :family: 프로젝트 기간 및 참여 인원
 2020.01 ~ 2020.06 / 2명
 
 
-### :star: 개발 목적
+### :scroll: 개발 목적
 주택 거래 정보와 주택 세부 정보, 주변 상권, 소속 구 월별 미세먼지 농도 등 사용자에게 상세한 부동산 관련 정보를 제공하기 위해 웹사이트 제작.
 
 
-### # 사용 언어 및 라이브러리 / 프레임워크
+### :wrench: 사용 언어 및 라이브러리 / 프레임워크
 - JAVA
 - html/css/javascript
 - JQuery
@@ -23,14 +23,14 @@
 - MySQL DBMS
 
 
-### # 개발 툴
+### :hammer: 개발 툴
 - Eclipse
 - STS
 - MySQL Workbench
 - Vscode
 
 
-### # Code
+### :page_facing_up: Code
 저작권 방침에 따라 비공개
 
 ### :memo: 구현 기능
