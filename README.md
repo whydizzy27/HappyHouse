@@ -15,9 +15,10 @@
 - html/css/javascript
 - JQuery
 - JSP / jstl
-- Spring Boot
+- Spring Boot (MVC)
 - REST API
 - ajax
+- Mybatis
 - BootStrap
 - Vue.js (Router, Vuex, axios...)
 - MySQL DBMS
